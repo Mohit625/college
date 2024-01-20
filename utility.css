@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+}
+.align{
+    align-items: center;
+}
+.justify{
+    justify-content: space-between;
+}
+.invert{
+    filter: invert(1);
+}
